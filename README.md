@@ -10,9 +10,12 @@ Built with **Power BI Desktop only** — no Excel, Python, or SQL.
 
 
 ![Sales Overview](screenshot/sales-overview.webp)
-<p align="center">Sales Overview</p>
+
+<h2 align="center">Sales Overview</h2>
+
 ![Product & People](screenshot/product-and-people.webp)
-<p align="center">Product and People</p>
+
+<h2 align="center">Product and People</h2>
 
 ## Key Results
 
