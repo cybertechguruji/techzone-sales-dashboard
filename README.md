@@ -8,10 +8,9 @@ Built with **Power BI Desktop only** — no Excel, Python, or SQL.
 
 ## Dashboard Preview
 
-Add your screenshots to a `screenshots/` folder and they will show here:
 
-![Sales Overview](screenshots/sales-overview.png)
-![Product & People](screenshots/product-and-people.png)
+![Sales Overview](screenshots/sales-overview.webp)
+![Product & People](screenshots/product-and-people.webp)
 
 ## Key Results
 
@@ -145,3 +144,7 @@ techzone-sales-dashboard/
 ## Note
 
 TechZone is a fictional company and the dataset is synthetic, created for learning and portfolio purposes.
+
+## Author
+
+Akram Chaudhary
