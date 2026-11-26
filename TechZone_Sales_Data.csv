@@ -1,0 +1,301 @@
+OrderID,OrderDate,Region,City,CustomerSegment,Category,Product,Quantity,UnitPrice,UnitCost,DiscountPct,Channel,PaymentMethod,Salesperson
+ORD-1001,2025-01-02,West,Ahmedabad,Consumer,Accessories,Mouse,3,2400,1426,5,Store,Card,Aarav Sharma
+ORD-1002,2025-01-04,West,Pune,Corporate,Accessories,Mouse,5,2100,1220,5,Online,Cash,Rohit Kumar
+ORD-1003,2025-01-04,East,Kolkata,Consumer,Accessories,Charger,2,1100,589,0,Store,Cash,Aarav Sharma
+ORD-1004,2025-01-05,East,Patna,Home Office,Accessories,Keyboard,3,2200,1286,5,Store,Cash,Kavya Nair
+ORD-1005,2025-01-06,West,Mumbai,Consumer,Electronics,Smartwatch,1,5800,4310,0,Store,Net Banking,Rohit Kumar
+ORD-1006,2025-01-08,West,Pune,Corporate,Home Appliances,Microwave Oven,3,17600,12438,10,Store,UPI,Rohit Kumar
+ORD-1007,2025-01-09,South,Chennai,Corporate,Electronics,Smartphone,1,36500,29976,15,Store,UPI,Kavya Nair
+ORD-1008,2025-01-09,North,Delhi,Home Office,Electronics,Smartwatch,4,5500,4229,5,Store,Net Banking,Rohit Kumar
+ORD-1009,2025-01-10,West,Pune,Consumer,Electronics,Tablet,2,17400,13787,5,Online,Card,Priya Patel
+ORD-1010,2025-01-11,South,Hyderabad,Consumer,Electronics,Smartwatch,1,5900,4480,5,Online,Cash,Priya Patel
+ORD-1011,2025-01-12,West,Pune,Corporate,Accessories,Keyboard,2,3900,2344,5,Store,Card,Vikram Singh
+ORD-1012,2025-01-12,South,Hyderabad,Consumer,Accessories,Mouse,5,1200,707,10,Store,Net Banking,Priya Patel
+ORD-1013,2025-01-14,East,Patna,Consumer,Accessories,Power Bank,1,3300,2055,15,Store,Card,Sneha Iyer
+ORD-1014,2025-01-15,North,Jaipur,Corporate,Electronics,Tablet,3,18700,14545,10,Store,Net Banking,Priya Patel
+ORD-1015,2025-01-16,South,Bengaluru,Home Office,Accessories,Charger,2,1700,915,15,Online,Card,Kavya Nair
+ORD-1016,2025-01-17,North,Delhi,Corporate,Electronics,Laptop,2,61000,48562,5,Store,UPI,Rahul Verma
+ORD-1017,2025-01-18,South,Bengaluru,Consumer,Accessories,Power Bank,2,2900,1762,5,Online,UPI,Rohit Kumar
+ORD-1018,2025-01-19,South,Chennai,Consumer,Electronics,Headphones,3,2100,1394,5,Store,Net Banking,Rohit Kumar
+ORD-1019,2025-01-22,West,Ahmedabad,Consumer,Electronics,Smartphone,4,37600,31120,5,Store,Cash,Rahul Verma
+ORD-1020,2025-01-22,East,Kolkata,Corporate,Electronics,Tablet,3,26600,21194,10,Online,Net Banking,Rohit Kumar
+ORD-1021,2025-01-23,East,Patna,Consumer,Electronics,Smartwatch,1,5200,3866,10,Online,Cash,Rahul Verma
+ORD-1022,2025-01-23,West,Ahmedabad,Home Office,Electronics,Headphones,4,3700,2452,15,Online,Card,Priya Patel
+ORD-1023,2025-01-26,East,Patna,Corporate,Accessories,Charger,3,800,435,5,Store,UPI,Sneha Iyer
+ORD-1024,2025-01-28,West,Ahmedabad,Consumer,Accessories,Power Bank,4,3500,2217,0,Store,Net Banking,Kavya Nair
+ORD-1025,2025-02-03,South,Hyderabad,Home Office,Accessories,Charger,4,1300,702,10,Store,Card,Vikram Singh
+ORD-1026,2025-02-03,West,Mumbai,Corporate,Home Appliances,Microwave Oven,3,12900,9167,0,Online,Card,Ananya Gupta
+ORD-1027,2025-02-05,North,Lucknow,Corporate,Electronics,Smartwatch,2,8700,6714,0,Store,Net Banking,Ananya Gupta
+ORD-1028,2025-02-06,East,Bhubaneswar,Home Office,Electronics,Laptop,1,45900,36631,10,Store,Net Banking,Rohit Kumar
+ORD-1029,2025-02-06,North,Jaipur,Corporate,Accessories,Power Bank,5,1900,1170,10,Online,Net Banking,Priya Patel
+ORD-1030,2025-02-07,North,Jaipur,Consumer,Accessories,Keyboard,2,1800,1052,5,Store,UPI,Sneha Iyer
+ORD-1031,2025-02-07,North,Jaipur,Consumer,Electronics,Laptop,1,58300,47903,10,Store,Card,Priya Patel
+ORD-1032,2025-02-08,West,Ahmedabad,Home Office,Accessories,Mouse,3,2000,1192,0,Store,Net Banking,Kavya Nair
+ORD-1033,2025-02-09,West,Mumbai,Consumer,Electronics,Smartwatch,1,9000,6909,0,Online,Net Banking,Rahul Verma
+ORD-1034,2025-02-10,East,Bhubaneswar,Corporate,Accessories,Mouse,2,2300,1367,5,Store,Net Banking,Vikram Singh
+ORD-1035,2025-02-10,North,Jaipur,Consumer,Electronics,Smartwatch,5,6900,5190,10,Store,Card,Vikram Singh
+ORD-1036,2025-02-10,East,Kolkata,Corporate,Accessories,Power Bank,5,3500,2124,5,Online,UPI,Rohit Kumar
+ORD-1037,2025-02-11,North,Lucknow,Home Office,Accessories,Mouse,5,1600,936,10,Online,Net Banking,Vikram Singh
+ORD-1038,2025-02-12,East,Kolkata,Consumer,Accessories,Charger,4,1000,535,10,Store,Cash,Ananya Gupta
+ORD-1039,2025-02-12,West,Mumbai,Consumer,Electronics,Headphones,3,3400,2241,10,Online,UPI,Vikram Singh
+ORD-1040,2025-02-12,West,Ahmedabad,Corporate,Accessories,Charger,3,1000,535,5,Online,UPI,Aarav Sharma
+ORD-1041,2025-02-12,South,Chennai,Home Office,Electronics,Smartphone,2,19000,15590,0,Store,Net Banking,Priya Patel
+ORD-1042,2025-02-14,North,Jaipur,Consumer,Electronics,Headphones,4,7600,4947,0,Store,UPI,Kavya Nair
+ORD-1043,2025-02-16,North,Delhi,Corporate,Electronics,Tablet,2,16000,13024,0,Store,Net Banking,Vikram Singh
+ORD-1044,2025-02-16,West,Pune,Home Office,Accessories,Mouse,5,1300,740,10,Store,Card,Vikram Singh
+ORD-1045,2025-02-16,East,Bhubaneswar,Consumer,Home Appliances,Refrigerator,2,26100,20266,0,Store,Net Banking,Kavya Nair
+ORD-1046,2025-02-17,South,Bengaluru,Consumer,Home Appliances,Washing Machine,3,15600,12212,10,Store,Cash,Aarav Sharma
+ORD-1047,2025-02-17,South,Bengaluru,Consumer,Electronics,Smartwatch,1,13600,10264,0,Online,Net Banking,Sneha Iyer
+ORD-1048,2025-02-18,North,Lucknow,Home Office,Home Appliances,Air Conditioner,3,49600,38481,0,Online,UPI,Rohit Kumar
+ORD-1049,2025-02-18,South,Bengaluru,Consumer,Home Appliances,Refrigerator,2,43900,34156,10,Store,Cash,Ananya Gupta
+ORD-1050,2025-02-19,North,Jaipur,Corporate,Home Appliances,Microwave Oven,2,14200,10011,0,Online,Cash,Kavya Nair
+ORD-1051,2025-02-20,West,Mumbai,Home Office,Electronics,Tablet,2,19300,15826,0,Store,Net Banking,Aarav Sharma
+ORD-1052,2025-02-20,West,Mumbai,Corporate,Home Appliances,Washing Machine,3,28200,22072,5,Store,Net Banking,Kavya Nair
+ORD-1053,2025-02-21,South,Bengaluru,Home Office,Accessories,Power Bank,4,2000,1233,15,Online,Cash,Ananya Gupta
+ORD-1054,2025-02-21,West,Mumbai,Home Office,Accessories,Power Bank,5,2800,1756,5,Store,Cash,Sneha Iyer
+ORD-1055,2025-02-24,South,Chennai,Consumer,Home Appliances,Microwave Oven,2,14700,10316,10,Store,Card,Priya Patel
+ORD-1056,2025-02-25,East,Bhubaneswar,Consumer,Accessories,Power Bank,3,1700,1079,0,Online,Cash,Ananya Gupta
+ORD-1057,2025-02-25,South,Bengaluru,Consumer,Electronics,Smartphone,2,42100,33953,0,Store,Cash,Kavya Nair
+ORD-1058,2025-02-25,South,Hyderabad,Corporate,Accessories,Keyboard,1,2200,1331,10,Store,UPI,Aarav Sharma
+ORD-1059,2025-02-27,North,Lucknow,Home Office,Electronics,Headphones,1,4300,2734,0,Store,UPI,Aarav Sharma
+ORD-1060,2025-02-28,North,Jaipur,Home Office,Accessories,Keyboard,2,2200,1354,0,Online,Cash,Rohit Kumar
+ORD-1061,2025-03-01,South,Bengaluru,Consumer,Accessories,Power Bank,1,2400,1532,0,Online,Net Banking,Kavya Nair
+ORD-1062,2025-03-02,West,Pune,Corporate,Accessories,Keyboard,4,2600,1602,0,Store,Net Banking,Kavya Nair
+ORD-1063,2025-03-02,North,Jaipur,Corporate,Accessories,Charger,3,1200,660,0,Store,Cash,Aarav Sharma
+ORD-1064,2025-03-04,East,Kolkata,Corporate,Accessories,Charger,5,1800,991,10,Store,Net Banking,Rahul Verma
+ORD-1065,2025-03-04,North,Delhi,Home Office,Home Appliances,Air Conditioner,2,51400,39040,0,Online,Card,Vikram Singh
+ORD-1066,2025-03-05,East,Bhubaneswar,Corporate,Electronics,Headphones,5,6600,4403,15,Online,UPI,Rohit Kumar
+ORD-1067,2025-03-05,North,Delhi,Corporate,Electronics,Headphones,4,7200,4589,10,Online,Cash,Priya Patel
+ORD-1068,2025-03-09,East,Patna,Corporate,Home Appliances,Microwave Oven,2,15100,10847,0,Store,UPI,Sneha Iyer
+ORD-1069,2025-03-09,East,Kolkata,Corporate,Electronics,Smartwatch,1,6100,4638,0,Store,Cash,Rahul Verma
+ORD-1070,2025-03-10,West,Ahmedabad,Consumer,Home Appliances,Air Conditioner,2,44400,34152,0,Store,Card,Rohit Kumar
+ORD-1071,2025-03-11,West,Mumbai,Corporate,Accessories,Power Bank,4,2500,1581,10,Store,Net Banking,Rahul Verma
+ORD-1072,2025-03-12,West,Pune,Consumer,Electronics,Headphones,4,1500,974,0,Store,Card,Ananya Gupta
+ORD-1073,2025-03-13,South,Hyderabad,Corporate,Home Appliances,Microwave Oven,2,11300,8256,10,Online,Card,Kavya Nair
+ORD-1074,2025-03-13,South,Bengaluru,Corporate,Accessories,Charger,3,1700,926,0,Store,Cash,Vikram Singh
+ORD-1075,2025-03-15,East,Kolkata,Corporate,Electronics,Tablet,1,28200,23198,5,Store,Net Banking,Ananya Gupta
+ORD-1076,2025-03-16,South,Hyderabad,Consumer,Electronics,Smartwatch,1,7200,5273,0,Store,Card,Ananya Gupta
+ORD-1077,2025-03-18,West,Pune,Home Office,Electronics,Smartwatch,2,11800,8835,5,Online,Net Banking,Aarav Sharma
+ORD-1078,2025-03-19,East,Kolkata,Corporate,Home Appliances,Refrigerator,2,36100,28181,0,Online,Cash,Kavya Nair
+ORD-1079,2025-03-20,East,Kolkata,Consumer,Electronics,Smartphone,1,19300,15439,10,Online,Cash,Priya Patel
+ORD-1080,2025-03-20,East,Patna,Home Office,Electronics,Smartphone,5,39500,32549,10,Online,Cash,Priya Patel
+ORD-1081,2025-03-22,West,Pune,Home Office,Accessories,Mouse,2,1000,593,0,Online,UPI,Vikram Singh
+ORD-1082,2025-03-23,East,Patna,Consumer,Electronics,Headphones,3,4200,2804,0,Store,UPI,Ananya Gupta
+ORD-1083,2025-03-23,West,Ahmedabad,Corporate,Accessories,Mouse,4,1400,824,15,Store,Net Banking,Aarav Sharma
+ORD-1084,2025-03-25,West,Pune,Home Office,Electronics,Smartwatch,1,8400,6376,0,Online,Card,Kavya Nair
+ORD-1085,2025-03-27,East,Patna,Home Office,Accessories,Charger,1,1300,716,15,Online,Card,Kavya Nair
+ORD-1086,2025-03-30,East,Kolkata,Corporate,Accessories,Charger,1,1300,722,5,Online,Card,Ananya Gupta
+ORD-1087,2025-03-30,West,Mumbai,Home Office,Accessories,Charger,2,1200,651,0,Online,Cash,Kavya Nair
+ORD-1088,2025-03-31,North,Delhi,Consumer,Accessories,Mouse,3,800,454,5,Store,Card,Vikram Singh
+ORD-1089,2025-04-02,North,Delhi,Corporate,Home Appliances,Washing Machine,3,21100,16153,5,Store,Net Banking,Priya Patel
+ORD-1090,2025-04-02,West,Mumbai,Corporate,Accessories,Power Bank,4,3300,2002,0,Online,Card,Rohit Kumar
+ORD-1091,2025-04-03,South,Hyderabad,Corporate,Home Appliances,Air Conditioner,3,49000,37908,5,Store,Net Banking,Sneha Iyer
+ORD-1092,2025-04-03,West,Pune,Home Office,Electronics,Smartphone,3,31700,26244,15,Store,Card,Kavya Nair
+ORD-1093,2025-04-03,South,Hyderabad,Corporate,Accessories,Power Bank,3,3500,2230,10,Store,Net Banking,Priya Patel
+ORD-1094,2025-04-04,East,Kolkata,Home Office,Electronics,Headphones,5,4800,3090,5,Online,Card,Priya Patel
+ORD-1095,2025-04-06,East,Bhubaneswar,Corporate,Home Appliances,Washing Machine,1,31500,25204,0,Store,Card,Rahul Verma
+ORD-1096,2025-04-07,North,Delhi,Consumer,Accessories,Charger,1,1400,775,5,Online,UPI,Aarav Sharma
+ORD-1097,2025-04-08,West,Ahmedabad,Corporate,Accessories,Mouse,1,1200,701,5,Online,Cash,Rahul Verma
+ORD-1098,2025-04-11,West,Mumbai,Consumer,Accessories,Keyboard,2,1700,1020,0,Store,UPI,Aarav Sharma
+ORD-1099,2025-04-11,West,Mumbai,Corporate,Electronics,Headphones,3,4600,2989,5,Store,Net Banking,Rahul Verma
+ORD-1100,2025-04-11,East,Kolkata,Home Office,Electronics,Smartwatch,3,11200,8413,10,Store,UPI,Ananya Gupta
+ORD-1101,2025-04-12,South,Hyderabad,Corporate,Electronics,Tablet,3,28700,22375,15,Store,Cash,Ananya Gupta
+ORD-1102,2025-04-13,North,Delhi,Consumer,Electronics,Smartwatch,1,13100,9702,15,Store,Net Banking,Kavya Nair
+ORD-1103,2025-04-13,North,Delhi,Corporate,Electronics,Laptop,3,47500,38953,5,Store,Net Banking,Rohit Kumar
+ORD-1104,2025-04-14,South,Hyderabad,Corporate,Electronics,Smartphone,4,20400,16391,10,Online,Cash,Sneha Iyer
+ORD-1105,2025-04-15,West,Pune,Home Office,Home Appliances,Air Conditioner,1,39300,31097,5,Store,Cash,Rahul Verma
+ORD-1106,2025-04-18,East,Bhubaneswar,Home Office,Accessories,Keyboard,4,3200,1915,5,Store,Card,Priya Patel
+ORD-1107,2025-04-18,East,Patna,Consumer,Accessories,Charger,4,900,504,15,Store,Card,Vikram Singh
+ORD-1108,2025-04-20,North,Jaipur,Corporate,Electronics,Headphones,2,7400,4785,10,Online,Net Banking,Kavya Nair
+ORD-1109,2025-04-20,East,Kolkata,Consumer,Electronics,Smartphone,4,26500,21755,0,Store,UPI,Rohit Kumar
+ORD-1110,2025-04-20,South,Chennai,Consumer,Accessories,Keyboard,1,4000,2451,0,Online,Net Banking,Ananya Gupta
+ORD-1111,2025-04-23,North,Lucknow,Corporate,Home Appliances,Refrigerator,1,28400,22998,0,Online,Cash,Aarav Sharma
+ORD-1112,2025-04-24,East,Bhubaneswar,Corporate,Electronics,Smartwatch,4,13400,10099,10,Store,Cash,Kavya Nair
+ORD-1113,2025-04-24,North,Jaipur,Home Office,Electronics,Tablet,2,13900,10945,0,Online,Cash,Kavya Nair
+ORD-1114,2025-04-25,South,Chennai,Home Office,Electronics,Headphones,1,5200,3304,10,Online,Card,Ananya Gupta
+ORD-1115,2025-04-26,West,Mumbai,Home Office,Accessories,Charger,4,1700,948,0,Online,Cash,Ananya Gupta
+ORD-1116,2025-04-27,East,Patna,Corporate,Accessories,Charger,1,1400,766,10,Store,Cash,Ananya Gupta
+ORD-1117,2025-04-27,West,Ahmedabad,Consumer,Accessories,Power Bank,5,2800,1703,10,Store,Card,Priya Patel
+ORD-1118,2025-04-29,West,Ahmedabad,Home Office,Electronics,Headphones,2,7300,4622,5,Online,Net Banking,Priya Patel
+ORD-1119,2025-04-30,East,Kolkata,Home Office,Accessories,Keyboard,2,3200,1967,0,Store,Cash,Rohit Kumar
+ORD-1120,2025-05-02,West,Pune,Corporate,Accessories,Charger,3,2000,1092,10,Store,Card,Priya Patel
+ORD-1121,2025-05-03,South,Chennai,Corporate,Home Appliances,Microwave Oven,1,15000,10740,0,Online,Card,Kavya Nair
+ORD-1122,2025-05-03,West,Mumbai,Home Office,Electronics,Smartwatch,4,13800,10127,10,Online,Net Banking,Rohit Kumar
+ORD-1123,2025-05-04,East,Patna,Corporate,Home Appliances,Microwave Oven,3,11000,8010,15,Online,UPI,Vikram Singh
+ORD-1124,2025-05-05,South,Hyderabad,Home Office,Accessories,Mouse,2,1100,648,0,Store,UPI,Sneha Iyer
+ORD-1125,2025-05-06,East,Bhubaneswar,Home Office,Accessories,Charger,5,900,493,5,Store,Net Banking,Rohit Kumar
+ORD-1126,2025-05-06,North,Jaipur,Corporate,Accessories,Charger,5,1100,614,10,Online,Net Banking,Ananya Gupta
+ORD-1127,2025-05-06,North,Jaipur,Consumer,Electronics,Headphones,1,3400,2167,10,Store,Card,Rohit Kumar
+ORD-1128,2025-05-08,West,Mumbai,Consumer,Accessories,Charger,1,900,491,15,Online,Net Banking,Ananya Gupta
+ORD-1129,2025-05-08,West,Pune,Corporate,Home Appliances,Washing Machine,1,32300,24889,0,Store,Card,Priya Patel
+ORD-1130,2025-05-12,West,Mumbai,Consumer,Accessories,Keyboard,2,1900,1159,5,Online,Cash,Rohit Kumar
+ORD-1131,2025-05-14,East,Kolkata,Consumer,Accessories,Power Bank,4,2400,1505,5,Online,UPI,Kavya Nair
+ORD-1132,2025-05-15,South,Hyderabad,Home Office,Home Appliances,Air Conditioner,1,49800,38985,0,Online,UPI,Ananya Gupta
+ORD-1133,2025-05-16,North,Delhi,Home Office,Accessories,Mouse,5,1200,686,5,Store,Card,Vikram Singh
+ORD-1134,2025-05-16,North,Delhi,Corporate,Electronics,Smartwatch,1,12000,8770,10,Store,Cash,Aarav Sharma
+ORD-1135,2025-05-19,West,Pune,Consumer,Electronics,Smartwatch,1,14200,10453,0,Online,Net Banking,Vikram Singh
+ORD-1136,2025-05-22,East,Patna,Home Office,Accessories,Power Bank,1,3100,1895,5,Store,Net Banking,Rahul Verma
+ORD-1137,2025-05-22,South,Bengaluru,Consumer,Accessories,Power Bank,2,2900,1753,0,Store,Card,Rahul Verma
+ORD-1138,2025-05-22,East,Patna,Home Office,Home Appliances,Refrigerator,1,21900,17156,15,Online,Net Banking,Priya Patel
+ORD-1139,2025-05-24,North,Jaipur,Consumer,Home Appliances,Washing Machine,1,34600,27124,0,Online,Card,Vikram Singh
+ORD-1140,2025-05-26,West,Mumbai,Consumer,Accessories,Charger,3,2000,1082,5,Online,UPI,Aarav Sharma
+ORD-1141,2025-05-26,North,Jaipur,Home Office,Electronics,Smartphone,2,44200,36852,5,Online,Card,Vikram Singh
+ORD-1142,2025-05-27,North,Delhi,Consumer,Home Appliances,Air Conditioner,2,41500,32811,10,Store,UPI,Sneha Iyer
+ORD-1143,2025-05-27,North,Delhi,Corporate,Accessories,Keyboard,1,2600,1563,0,Online,UPI,Rohit Kumar
+ORD-1144,2025-05-28,South,Hyderabad,Consumer,Electronics,Smartphone,1,20000,16656,15,Store,UPI,Aarav Sharma
+ORD-1145,2025-05-29,North,Jaipur,Home Office,Electronics,Laptop,3,61600,48309,15,Store,UPI,Rohit Kumar
+ORD-1146,2025-05-30,West,Pune,Corporate,Accessories,Charger,5,1500,812,0,Online,Card,Priya Patel
+ORD-1147,2025-06-01,South,Bengaluru,Consumer,Home Appliances,Microwave Oven,2,14900,10445,0,Store,Card,Aarav Sharma
+ORD-1148,2025-06-01,North,Lucknow,Home Office,Accessories,Mouse,3,2400,1353,0,Store,Card,Rahul Verma
+ORD-1149,2025-06-03,West,Ahmedabad,Corporate,Accessories,Power Bank,2,2100,1300,10,Store,Net Banking,Sneha Iyer
+ORD-1150,2025-06-04,South,Chennai,Home Office,Accessories,Charger,5,900,487,10,Store,Cash,Aarav Sharma
+ORD-1151,2025-06-04,East,Kolkata,Home Office,Accessories,Charger,4,1800,984,0,Online,Card,Kavya Nair
+ORD-1152,2025-06-04,North,Jaipur,Corporate,Accessories,Keyboard,1,2700,1577,15,Online,Net Banking,Vikram Singh
+ORD-1153,2025-06-06,South,Bengaluru,Corporate,Electronics,Laptop,2,54800,43572,0,Store,Net Banking,Ananya Gupta
+ORD-1154,2025-06-08,East,Kolkata,Consumer,Accessories,Keyboard,4,1700,1008,10,Online,Net Banking,Ananya Gupta
+ORD-1155,2025-06-08,East,Bhubaneswar,Consumer,Accessories,Power Bank,1,2200,1327,10,Store,UPI,Vikram Singh
+ORD-1156,2025-06-09,East,Bhubaneswar,Consumer,Accessories,Keyboard,4,4000,2457,0,Online,UPI,Ananya Gupta
+ORD-1157,2025-06-10,North,Lucknow,Corporate,Accessories,Charger,4,1600,869,10,Store,Card,Sneha Iyer
+ORD-1158,2025-06-11,East,Bhubaneswar,Consumer,Electronics,Smartphone,4,33300,28046,0,Store,Net Banking,Rohit Kumar
+ORD-1159,2025-06-13,South,Chennai,Corporate,Electronics,Smartphone,1,38000,30688,0,Store,Net Banking,Sneha Iyer
+ORD-1160,2025-06-13,West,Mumbai,Consumer,Home Appliances,Microwave Oven,1,9500,6840,0,Online,Net Banking,Priya Patel
+ORD-1161,2025-06-14,North,Delhi,Corporate,Electronics,Headphones,4,7800,5005,0,Online,Cash,Vikram Singh
+ORD-1162,2025-06-14,East,Bhubaneswar,Home Office,Electronics,Tablet,2,13500,10767,0,Online,UPI,Sneha Iyer
+ORD-1163,2025-06-14,South,Hyderabad,Corporate,Electronics,Headphones,3,3300,2154,10,Store,UPI,Priya Patel
+ORD-1164,2025-06-15,East,Kolkata,Consumer,Electronics,Smartphone,3,33500,28094,5,Online,UPI,Priya Patel
+ORD-1165,2025-06-15,West,Mumbai,Home Office,Electronics,Smartphone,1,44400,36598,5,Online,Card,Kavya Nair
+ORD-1166,2025-06-15,North,Jaipur,Corporate,Accessories,Charger,5,800,444,15,Online,Card,Ananya Gupta
+ORD-1167,2025-06-16,North,Jaipur,Home Office,Electronics,Headphones,5,7000,4453,10,Online,Card,Rahul Verma
+ORD-1168,2025-06-16,East,Patna,Home Office,Accessories,Charger,5,1400,763,5,Online,UPI,Kavya Nair
+ORD-1169,2025-06-20,West,Mumbai,Consumer,Electronics,Smartwatch,1,7400,5703,15,Online,Net Banking,Sneha Iyer
+ORD-1170,2025-06-22,West,Pune,Home Office,Electronics,Tablet,2,16000,12978,15,Store,Card,Ananya Gupta
+ORD-1171,2025-06-23,North,Delhi,Corporate,Electronics,Smartwatch,4,11800,8822,0,Store,Card,Priya Patel
+ORD-1172,2025-06-23,West,Mumbai,Consumer,Electronics,Smartwatch,1,11500,8573,0,Online,Cash,Kavya Nair
+ORD-1173,2025-06-25,East,Kolkata,Corporate,Home Appliances,Washing Machine,2,23900,18615,15,Online,Cash,Aarav Sharma
+ORD-1174,2025-06-26,West,Mumbai,Home Office,Accessories,Mouse,4,2500,1417,0,Store,Cash,Sneha Iyer
+ORD-1175,2025-06-28,North,Jaipur,Corporate,Electronics,Smartphone,4,40700,33121,0,Online,UPI,Ananya Gupta
+ORD-1176,2025-06-28,North,Jaipur,Home Office,Accessories,Charger,2,900,503,5,Store,Net Banking,Rahul Verma
+ORD-1177,2025-06-29,East,Kolkata,Home Office,Accessories,Mouse,4,1900,1109,5,Online,UPI,Rohit Kumar
+ORD-1178,2025-06-30,South,Bengaluru,Home Office,Accessories,Mouse,5,2300,1308,0,Online,UPI,Aarav Sharma
+ORD-1179,2025-06-30,East,Bhubaneswar,Home Office,Electronics,Tablet,2,29200,23648,0,Online,Cash,Priya Patel
+ORD-1180,2025-06-30,South,Hyderabad,Consumer,Accessories,Power Bank,2,3000,1864,15,Online,UPI,Sneha Iyer
+ORD-1181,2025-07-03,North,Lucknow,Corporate,Electronics,Headphones,4,6900,4572,5,Store,Cash,Rahul Verma
+ORD-1182,2025-07-05,East,Bhubaneswar,Corporate,Electronics,Laptop,2,52800,42693,10,Online,Card,Ananya Gupta
+ORD-1183,2025-07-05,West,Mumbai,Consumer,Electronics,Headphones,3,7200,4754,0,Online,Net Banking,Ananya Gupta
+ORD-1184,2025-07-06,South,Bengaluru,Consumer,Electronics,Tablet,2,27500,22235,0,Online,Card,Ananya Gupta
+ORD-1185,2025-07-08,East,Kolkata,Consumer,Accessories,Mouse,2,2500,1472,0,Store,UPI,Sneha Iyer
+ORD-1186,2025-07-09,West,Mumbai,Home Office,Home Appliances,Air Conditioner,3,43400,34078,0,Store,UPI,Rahul Verma
+ORD-1187,2025-07-09,North,Lucknow,Corporate,Accessories,Keyboard,4,1200,735,0,Store,Net Banking,Rahul Verma
+ORD-1188,2025-07-09,East,Bhubaneswar,Home Office,Accessories,Mouse,1,1200,712,15,Store,Cash,Aarav Sharma
+ORD-1189,2025-07-09,South,Chennai,Home Office,Home Appliances,Air Conditioner,1,40000,31865,10,Store,UPI,Rohit Kumar
+ORD-1190,2025-07-10,East,Bhubaneswar,Home Office,Electronics,Smartphone,4,19800,16241,0,Online,Net Banking,Rahul Verma
+ORD-1191,2025-07-11,East,Patna,Home Office,Home Appliances,Microwave Oven,3,16900,11967,0,Online,UPI,Rohit Kumar
+ORD-1192,2025-07-14,West,Ahmedabad,Consumer,Accessories,Mouse,1,1500,879,5,Store,Net Banking,Vikram Singh
+ORD-1193,2025-07-14,West,Pune,Corporate,Electronics,Smartwatch,5,6000,4491,0,Online,UPI,Aarav Sharma
+ORD-1194,2025-07-14,East,Bhubaneswar,Corporate,Home Appliances,Refrigerator,1,36300,27832,0,Store,Cash,Priya Patel
+ORD-1195,2025-07-15,West,Pune,Home Office,Home Appliances,Washing Machine,3,26000,19792,0,Online,Net Banking,Kavya Nair
+ORD-1196,2025-07-15,East,Kolkata,Home Office,Accessories,Charger,3,2000,1106,0,Store,Cash,Priya Patel
+ORD-1197,2025-07-15,South,Hyderabad,Home Office,Accessories,Power Bank,5,1900,1147,0,Online,Net Banking,Ananya Gupta
+ORD-1198,2025-07-17,South,Chennai,Corporate,Electronics,Laptop,3,67300,52230,5,Store,UPI,Ananya Gupta
+ORD-1199,2025-07-19,North,Lucknow,Home Office,Electronics,Smartwatch,1,8500,6471,0,Online,Cash,Ananya Gupta
+ORD-1200,2025-07-22,West,Mumbai,Corporate,Home Appliances,Microwave Oven,1,16700,12224,15,Online,Cash,Sneha Iyer
+ORD-1201,2025-07-22,North,Jaipur,Home Office,Home Appliances,Washing Machine,3,26600,20584,5,Store,Cash,Priya Patel
+ORD-1202,2025-07-23,South,Bengaluru,Home Office,Accessories,Keyboard,3,2700,1581,0,Online,Cash,Rohit Kumar
+ORD-1203,2025-07-23,North,Jaipur,Home Office,Accessories,Charger,3,1600,873,15,Online,UPI,Sneha Iyer
+ORD-1204,2025-07-23,West,Ahmedabad,Home Office,Electronics,Headphones,2,2900,1831,15,Store,UPI,Vikram Singh
+ORD-1205,2025-07-25,North,Delhi,Corporate,Electronics,Headphones,4,6400,4101,5,Store,Card,Sneha Iyer
+ORD-1206,2025-07-26,West,Ahmedabad,Home Office,Accessories,Power Bank,4,2600,1607,10,Online,UPI,Kavya Nair
+ORD-1207,2025-07-29,North,Lucknow,Consumer,Electronics,Laptop,3,51700,41725,0,Store,Cash,Vikram Singh
+ORD-1208,2025-07-30,North,Jaipur,Consumer,Accessories,Mouse,2,2000,1152,15,Online,Cash,Priya Patel
+ORD-1209,2025-07-30,West,Ahmedabad,Home Office,Accessories,Power Bank,1,2800,1774,5,Store,Cash,Priya Patel
+ORD-1210,2025-07-30,East,Kolkata,Home Office,Electronics,Smartphone,2,34600,27754,5,Online,Net Banking,Ananya Gupta
+ORD-1211,2025-08-01,East,Patna,Corporate,Electronics,Smartwatch,3,12700,9321,10,Online,Cash,Priya Patel
+ORD-1212,2025-08-03,West,Pune,Consumer,Electronics,Smartwatch,3,14100,10457,10,Store,Net Banking,Ananya Gupta
+ORD-1213,2025-08-04,East,Bhubaneswar,Home Office,Accessories,Mouse,3,1300,759,10,Online,Cash,Vikram Singh
+ORD-1214,2025-08-05,East,Patna,Home Office,Home Appliances,Refrigerator,3,25500,20104,10,Online,UPI,Ananya Gupta
+ORD-1215,2025-08-08,North,Lucknow,Consumer,Electronics,Headphones,1,6800,4337,10,Online,Net Banking,Kavya Nair
+ORD-1216,2025-08-08,West,Mumbai,Home Office,Electronics,Smartwatch,5,13200,9653,5,Online,Cash,Sneha Iyer
+ORD-1217,2025-08-11,South,Hyderabad,Corporate,Home Appliances,Washing Machine,3,31600,24307,15,Store,Cash,Ananya Gupta
+ORD-1218,2025-08-13,East,Bhubaneswar,Corporate,Home Appliances,Washing Machine,2,19000,14698,10,Store,UPI,Ananya Gupta
+ORD-1219,2025-08-14,West,Mumbai,Consumer,Accessories,Power Bank,4,2300,1463,0,Store,Net Banking,Priya Patel
+ORD-1220,2025-08-14,North,Lucknow,Consumer,Accessories,Power Bank,4,1500,942,0,Store,Cash,Ananya Gupta
+ORD-1221,2025-08-14,East,Patna,Consumer,Accessories,Power Bank,3,3000,1881,5,Store,UPI,Rohit Kumar
+ORD-1222,2025-08-14,East,Patna,Consumer,Electronics,Smartwatch,2,8400,6324,0,Store,Net Banking,Sneha Iyer
+ORD-1223,2025-08-15,North,Delhi,Corporate,Accessories,Keyboard,2,1200,740,0,Store,Net Banking,Sneha Iyer
+ORD-1224,2025-08-15,East,Patna,Corporate,Accessories,Keyboard,5,3800,2248,0,Store,UPI,Vikram Singh
+ORD-1225,2025-08-16,West,Pune,Consumer,Electronics,Smartphone,4,19400,15609,10,Online,UPI,Ananya Gupta
+ORD-1226,2025-08-17,East,Patna,Home Office,Electronics,Headphones,3,6300,4084,5,Online,Net Banking,Sneha Iyer
+ORD-1227,2025-08-17,North,Delhi,Consumer,Accessories,Mouse,5,2000,1155,5,Online,Cash,Sneha Iyer
+ORD-1228,2025-08-19,East,Patna,Home Office,Accessories,Charger,5,1400,761,0,Online,Card,Sneha Iyer
+ORD-1229,2025-08-20,North,Delhi,Corporate,Electronics,Headphones,1,5100,3230,10,Online,Net Banking,Sneha Iyer
+ORD-1230,2025-08-20,West,Pune,Consumer,Electronics,Smartwatch,3,6500,4755,0,Store,Card,Priya Patel
+ORD-1231,2025-08-21,East,Kolkata,Consumer,Accessories,Charger,1,1500,813,10,Store,Cash,Rahul Verma
+ORD-1232,2025-08-22,North,Jaipur,Corporate,Electronics,Smartwatch,3,13800,10604,0,Online,Cash,Vikram Singh
+ORD-1233,2025-08-23,North,Jaipur,Home Office,Electronics,Smartwatch,3,7500,5755,5,Store,Net Banking,Vikram Singh
+ORD-1234,2025-08-25,South,Chennai,Consumer,Accessories,Keyboard,4,2300,1391,10,Online,Net Banking,Rohit Kumar
+ORD-1235,2025-08-25,North,Delhi,Consumer,Electronics,Smartphone,2,18100,15136,0,Store,Cash,Priya Patel
+ORD-1236,2025-08-27,West,Mumbai,Consumer,Accessories,Charger,5,2000,1103,0,Store,UPI,Priya Patel
+ORD-1237,2025-08-27,West,Pune,Home Office,Electronics,Headphones,2,7300,4604,5,Store,Card,Kavya Nair
+ORD-1238,2025-09-01,East,Patna,Home Office,Accessories,Mouse,5,1600,942,15,Online,Cash,Kavya Nair
+ORD-1239,2025-09-03,West,Ahmedabad,Corporate,Accessories,Power Bank,5,2300,1407,10,Store,Card,Vikram Singh
+ORD-1240,2025-09-03,East,Patna,Consumer,Accessories,Power Bank,3,3100,1901,0,Store,Card,Aarav Sharma
+ORD-1241,2025-09-04,West,Ahmedabad,Consumer,Accessories,Charger,1,2000,1074,0,Store,Cash,Priya Patel
+ORD-1242,2025-09-05,South,Bengaluru,Home Office,Electronics,Headphones,3,5300,3388,5,Online,Net Banking,Ananya Gupta
+ORD-1243,2025-09-05,East,Kolkata,Home Office,Electronics,Laptop,1,73200,58248,5,Store,UPI,Rohit Kumar
+ORD-1244,2025-09-06,North,Lucknow,Corporate,Accessories,Mouse,5,1200,702,0,Store,Card,Sneha Iyer
+ORD-1245,2025-09-06,North,Jaipur,Home Office,Electronics,Headphones,4,6600,4347,0,Online,Net Banking,Aarav Sharma
+ORD-1246,2025-09-06,West,Mumbai,Consumer,Home Appliances,Washing Machine,3,19000,14433,10,Online,Card,Sneha Iyer
+ORD-1247,2025-09-08,West,Mumbai,Consumer,Accessories,Keyboard,4,3600,2119,10,Store,UPI,Vikram Singh
+ORD-1248,2025-09-09,East,Bhubaneswar,Consumer,Accessories,Charger,5,1500,808,0,Store,UPI,Vikram Singh
+ORD-1249,2025-09-11,South,Hyderabad,Home Office,Accessories,Power Bank,1,2400,1521,5,Online,Cash,Vikram Singh
+ORD-1250,2025-09-13,East,Kolkata,Home Office,Electronics,Smartwatch,3,12000,8800,15,Store,UPI,Aarav Sharma
+ORD-1251,2025-09-13,South,Chennai,Consumer,Electronics,Tablet,3,14600,11956,0,Online,UPI,Aarav Sharma
+ORD-1252,2025-09-15,South,Hyderabad,Consumer,Electronics,Laptop,2,78700,63041,0,Store,Net Banking,Rohit Kumar
+ORD-1253,2025-09-16,East,Patna,Consumer,Accessories,Charger,4,800,429,5,Online,Cash,Rahul Verma
+ORD-1254,2025-09-17,East,Bhubaneswar,Home Office,Home Appliances,Microwave Oven,2,14000,10270,10,Online,Net Banking,Vikram Singh
+ORD-1255,2025-09-18,North,Delhi,Consumer,Electronics,Smartphone,2,18400,15246,10,Online,UPI,Priya Patel
+ORD-1256,2025-09-18,South,Bengaluru,Corporate,Accessories,Power Bank,4,1900,1159,0,Store,Net Banking,Rahul Verma
+ORD-1257,2025-09-19,North,Lucknow,Consumer,Home Appliances,Washing Machine,3,34800,26898,0,Online,Card,Vikram Singh
+ORD-1258,2025-09-21,South,Chennai,Consumer,Accessories,Keyboard,5,2500,1503,15,Store,Net Banking,Sneha Iyer
+ORD-1259,2025-09-21,North,Delhi,Home Office,Accessories,Power Bank,3,2800,1779,0,Online,Card,Rahul Verma
+ORD-1260,2025-09-22,North,Jaipur,Corporate,Electronics,Smartphone,5,23200,18764,0,Online,Card,Kavya Nair
+ORD-1261,2025-09-23,East,Patna,Corporate,Electronics,Tablet,2,26900,21437,0,Store,Net Banking,Ananya Gupta
+ORD-1262,2025-09-23,South,Chennai,Home Office,Electronics,Tablet,1,20200,16581,10,Store,UPI,Vikram Singh
+ORD-1263,2025-09-23,East,Kolkata,Consumer,Accessories,Keyboard,5,4400,2582,10,Store,Cash,Ananya Gupta
+ORD-1264,2025-09-23,South,Hyderabad,Corporate,Electronics,Headphones,3,7600,4947,0,Store,Cash,Vikram Singh
+ORD-1265,2025-09-23,South,Hyderabad,Corporate,Electronics,Headphones,2,2100,1388,15,Online,Card,Kavya Nair
+ORD-1266,2025-09-28,North,Delhi,Consumer,Electronics,Smartwatch,4,13800,10590,5,Online,Cash,Aarav Sharma
+ORD-1267,2025-09-29,South,Chennai,Consumer,Home Appliances,Refrigerator,1,21500,17466,5,Online,Card,Rohit Kumar
+ORD-1268,2025-10-01,South,Chennai,Home Office,Accessories,Power Bank,2,3000,1905,10,Store,Net Banking,Vikram Singh
+ORD-1269,2025-10-01,North,Delhi,Consumer,Home Appliances,Microwave Oven,1,12900,9207,0,Store,Cash,Aarav Sharma
+ORD-1270,2025-10-03,South,Bengaluru,Consumer,Accessories,Keyboard,5,1700,1021,10,Online,UPI,Sneha Iyer
+ORD-1271,2025-10-04,South,Hyderabad,Home Office,Accessories,Charger,5,900,485,10,Online,Card,Aarav Sharma
+ORD-1272,2025-10-04,West,Pune,Consumer,Accessories,Mouse,1,1200,708,10,Online,Net Banking,Sneha Iyer
+ORD-1273,2025-10-05,North,Lucknow,Corporate,Home Appliances,Air Conditioner,1,39100,31394,5,Online,Net Banking,Vikram Singh
+ORD-1274,2025-10-05,West,Ahmedabad,Home Office,Accessories,Charger,1,800,451,10,Store,UPI,Sneha Iyer
+ORD-1275,2025-10-06,South,Hyderabad,Consumer,Electronics,Tablet,1,18800,15334,0,Store,Cash,Kavya Nair
+ORD-1276,2025-10-08,North,Jaipur,Home Office,Accessories,Keyboard,4,4200,2550,0,Store,Card,Aarav Sharma
+ORD-1277,2025-10-10,West,Pune,Corporate,Electronics,Headphones,3,6000,3855,15,Online,Net Banking,Ananya Gupta
+ORD-1278,2025-10-11,North,Lucknow,Corporate,Accessories,Mouse,3,2500,1471,0,Store,Card,Kavya Nair
+ORD-1279,2025-10-11,North,Lucknow,Corporate,Accessories,Keyboard,1,3200,1961,5,Store,UPI,Sneha Iyer
+ORD-1280,2025-10-11,North,Jaipur,Corporate,Accessories,Charger,4,1400,791,5,Store,UPI,Rohit Kumar
+ORD-1281,2025-10-12,East,Bhubaneswar,Consumer,Electronics,Headphones,1,5000,3253,10,Store,Card,Rahul Verma
+ORD-1282,2025-10-13,South,Hyderabad,Home Office,Accessories,Keyboard,3,4300,2509,10,Store,Net Banking,Rohit Kumar
+ORD-1283,2025-10-14,East,Bhubaneswar,Consumer,Accessories,Mouse,2,1500,889,10,Online,Cash,Rohit Kumar
+ORD-1284,2025-10-15,North,Lucknow,Corporate,Accessories,Power Bank,3,2300,1385,5,Store,UPI,Rahul Verma
+ORD-1285,2025-10-15,East,Patna,Corporate,Home Appliances,Microwave Oven,2,9700,6937,5,Online,Net Banking,Ananya Gupta
+ORD-1286,2025-10-17,South,Bengaluru,Corporate,Accessories,Charger,2,1600,864,5,Online,UPI,Vikram Singh
+ORD-1287,2025-10-17,East,Patna,Consumer,Accessories,Charger,1,2000,1070,15,Online,Card,Kavya Nair
+ORD-1288,2025-10-18,North,Delhi,Corporate,Home Appliances,Microwave Oven,3,9200,6737,10,Store,Net Banking,Kavya Nair
+ORD-1289,2025-10-20,South,Hyderabad,Consumer,Electronics,Headphones,3,3200,2051,15,Online,Card,Rohit Kumar
+ORD-1290,2025-10-20,East,Kolkata,Consumer,Electronics,Tablet,3,22300,17458,10,Store,Cash,Sneha Iyer
+ORD-1291,2025-10-21,South,Bengaluru,Consumer,Electronics,Headphones,2,7100,4508,15,Store,UPI,Kavya Nair
+ORD-1292,2025-10-22,West,Ahmedabad,Corporate,Accessories,Keyboard,2,3200,1889,5,Store,Cash,Aarav Sharma
+ORD-1293,2025-10-23,North,Delhi,Consumer,Electronics,Tablet,1,26400,21689,5,Store,Card,Rohit Kumar
+ORD-1294,2025-10-23,South,Bengaluru,Consumer,Accessories,Keyboard,3,2600,1592,10,Store,Card,Rohit Kumar
+ORD-1295,2025-10-24,North,Delhi,Corporate,Home Appliances,Air Conditioner,1,31200,24396,0,Online,Cash,Rohit Kumar
+ORD-1296,2025-10-26,South,Chennai,Consumer,Electronics,Smartphone,1,30700,24969,10,Online,UPI,Ananya Gupta
+ORD-1297,2025-10-26,West,Mumbai,Consumer,Electronics,Laptop,3,48300,37939,15,Online,Cash,Priya Patel
+ORD-1298,2025-10-29,West,Mumbai,Consumer,Accessories,Charger,2,1200,649,5,Online,Cash,Aarav Sharma
+ORD-1299,2025-10-29,South,Chennai,Consumer,Accessories,Power Bank,4,3000,1815,0,Online,Cash,Vikram Singh
+ORD-1300,2025-10-31,East,Bhubaneswar,Consumer,Accessories,Keyboard,5,1400,825,0,Online,Cash,Sneha Iyer
