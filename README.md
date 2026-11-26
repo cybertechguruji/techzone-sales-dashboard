@@ -9,8 +9,8 @@ Built with **Power BI Desktop only** — no Excel, Python, or SQL.
 ## Dashboard Preview
 
 
-![Sales Overview](screenshots/sales-overview.webp)
-![Product & People](screenshots/product-and-people.webp)
+![Sales Overview](./screenshots/sales-overview.webp)
+![Product & People](./screenshots/product-and-people.webp)
 
 ## Key Results
 
