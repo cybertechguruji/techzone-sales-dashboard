@@ -8,11 +8,11 @@ Built with **Power BI Desktop only** — no Excel, Python, or SQL.
 
 ## Dashboard Preview
 
-<h2 align="center">Sales Overview</h2>
+<h3 align="center">Sales Overview Dashboard</h3>
 
 ![Sales Overview](screenshot/sales-overview.webp)
 
-<h2 align="center">Product and People</h2>
+<h3 align="center">Product and People Dashboard</h3>
 
 ![Product & People](screenshot/product-and-people.webp)
 
